@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on food chain modelling with differential equations in my master thesis
+- 🔭 I’m currently working on food chain modelling with differential equations during my master thesis
 
 <!--
 **FelixNoessler/FelixNoessler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
