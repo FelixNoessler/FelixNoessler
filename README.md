@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently working as a PhD student in ecological modelling at the [Theoretical Ecology](https://www.bcp.fu-berlin.de/en/biologie/arbeitsgruppen/botanik/ag_tietjen/index.html) working group at the FU Berlin.
 - 🔭 I worked on food chain modelling with differential equations during my master thesis at the working group [Ecology and Ecosystem Modelling](https://www.uni-potsdam.de/en/ibb-ecology/overview) at the University of Potsdam.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/felix-noessler/)
 
 <!--
 **FelixNoessler/FelixNoessler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
