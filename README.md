@@ -4,7 +4,7 @@
 - 🔭 I worked on food chain modelling with differential equations during my master thesis at the working group [Ecology and Ecosystem Modelling](https://www.uni-potsdam.de/en/ibb-ecology/overview) at the University of Potsdam.
 - I learned Julia during my master thesis and really like the ✨ [Makie](https://docs.makie.org/stable/) plotting ecosystem!
 
-
+<a rel="me" href="https://ecoevo.social/@felixnoessler">Link to my Mastodon profile</a>
 
 <!-- - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/felix-noessler/)
 
