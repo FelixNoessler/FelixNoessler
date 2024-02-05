@@ -13,7 +13,7 @@
 
 I learned `Julia` during my master thesis and really like the ✨ [Makie](https://docs.makie.org/stable/) plotting ecosystem!
 
-[![My Skills](https://skillicons.dev/icons?i=julia,py,r,bash,linux,d3,git,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=julia,py,r,bash,linux,git,md)](https://skillicons.dev)
 
 </samp>
 
